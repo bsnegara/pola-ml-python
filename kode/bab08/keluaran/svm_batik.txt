@@ -1,0 +1,9 @@
+terbaik: {'svc__C': 1, 'svc__gamma': 0.1} | akurasi CV 0.898
+SVM RBF         : akurasi uji 0.922 | support vector 325 dari 420
+SVM linear      : akurasi uji 0.794
+regresi logistik: akurasi uji 0.783
+kebingungan SVM RBF, baris = sebenarnya: parang, kawung, truntum, lereng
+[[42  0  0  3]
+ [ 0 42  0  3]
+ [ 1  0 42  2]
+ [ 0  1  4 40]]

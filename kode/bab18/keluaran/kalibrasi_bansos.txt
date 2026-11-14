@@ -1,0 +1,6 @@
+miskin di data uji: 0.126
+metode               akurasi    NLL    ECE  p>0,99 / p<0,01
+tanpa kalibrasi        0.884  0.512  0.075       0.73
+temperatur T=3.63      0.884  0.287  0.032       0.00
+Platt                  0.886  0.281  0.014       0.00
+isotonik               0.888  0.298  0.019       0.37

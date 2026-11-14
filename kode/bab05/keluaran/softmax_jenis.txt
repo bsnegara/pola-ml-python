@@ -1,0 +1,4 @@
+              bank   hadiah keluarga    kurir   normal   pinjol
+pesan 1:      0.01     0.34     0.00     0.47     0.15     0.02
+pesan 2:      0.00     0.00     0.04     0.01     0.94     0.00
+pesan 3:      0.00     0.00     0.00     0.00     1.00     0.00

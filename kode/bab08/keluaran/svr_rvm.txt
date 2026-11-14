@@ -1,0 +1,2 @@
+SVR:  34 support vector   | RMSE 0.048
+RVM:   9 vektor relevansi  | RMSE 0.043 | sd derau 0.094 (sebenarnya 0.100)

@@ -1,0 +1,12 @@
+target cakupan 90%; lebar selang satu kuantil: x2.73
+               cakupan dengan kuantil ...
+wilayah       n   gabungan  per-wilayah   lebar
+perkotaan  1003      0.942        0.917   x2.54
+perdesaan   783      0.918        0.900   x2.59
+3T          214      0.818        0.939   x4.58
+
+wilayah    exclusion  inclusion | exclusion  inclusion  verifikasi
+           (titik, ambang garis) | (konformal; verifikasi dikecualikan)
+perkotaan     0.723      0.002 |    0.106      0.000      0.237
+perdesaan     0.631      0.048 |    0.049      0.002      0.609
+3T            0.518      0.176 |    0.012      0.000      0.981

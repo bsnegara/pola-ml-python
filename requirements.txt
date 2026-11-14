@@ -1,0 +1,11 @@
+# Versi yang dipakai saat menyiapkan keluaran di buku (Python 3.13).
+# Versi lebih baru biasanya bekerja; angka di kotak terminal bisa sedikit berbeda.
+numpy>=2.0
+scipy>=1.13
+scikit-learn>=1.5
+pillow>=10
+pymc>=5.16        # Bab 15
+arviz>=0.18       # Bab 15
+torch>=2.3        # Bab 16-18 (versi CPU cukup)
+# Opsional, hanya untuk listing IndoBERT di Bab 17 (perlu internet):
+# transformers datasets

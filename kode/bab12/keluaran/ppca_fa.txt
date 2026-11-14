@@ -1,0 +1,10 @@
+PPCA M=2: sigma^2 = 0.211, log-lik./provinsi = -9.588
+  PCA(2).score di scikit-learn: -9.590
+varians derau FA  : 0.08 0.04 0.09 0.27 0.23 0.66 0.18 0.17 0.31 0.11 0.28
+  terbesar: gini, terkecil: IPM
+ M | log-lik. validasi silang PPCA |  FA
+ 1 |                        -11.12 | -10.62
+ 2 |                        -10.92 | -10.56
+ 3 |                        -11.24 | -10.66
+ 4 |                        -11.62 | -11.23
+ 5 |                        -11.26 | -11.78

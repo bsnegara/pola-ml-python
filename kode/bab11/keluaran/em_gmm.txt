@@ -1,0 +1,9 @@
+inisialisasi acak 0: 332 iterasi, log-lik.  -546.61, ARI 0.73
+inisialisasi acak 1: 140 iterasi, log-lik.  -555.85, ARI 0.35
+inisialisasi acak 2: 368 iterasi, log-lik.  -546.61, ARI 0.73
+inisialisasi acak 3: 131 iterasi, log-lik.  -567.60, ARI 0.37
+inisialisasi acak 4: 152 iterasi, log-lik.  -555.85, ARI 0.35
+mulai dari K-means : 251 iterasi, log-lik.  -546.61, ARI 0.73
+K-means saja       : ARI 0.76
+log-lik. iterasi 0,1,2,5,10,20: -1451 -645 -592 -573 -570 -562
+kabupaten 'ragu' (responsibility maks. < 0,6): 20 dari 514

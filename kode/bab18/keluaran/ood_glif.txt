@@ -1,0 +1,6 @@
+akurasi uji glif 0-7: 0.921
+skor                          AUROC glif 8-9  AUROC bercak acak
+1 - maks p (satu jaringan)          0.769          0.896
+entropi total (ensemble)            0.781          0.913
+informasi mutual (epistemik)        0.800          0.838
+rerata maks p ensemble: kenal 0.92, glif baru 0.78

@@ -1,0 +1,4 @@
+citra berderau   : 10.45% piksel salah
+ICM, beta = 0.0 : 10.45% piksel salah (1 putaran)
+ICM, beta = 1.0 : 4.62% piksel salah (2 putaran)
+ICM, beta = 3.0 : 1.92% piksel salah (3 putaran)

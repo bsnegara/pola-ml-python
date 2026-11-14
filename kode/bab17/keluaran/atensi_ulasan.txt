@@ -1,0 +1,7 @@
+bag of words (1, 1): akurasi uji 0.688
+bag of words (1, 2): akurasi uji 0.924
+transformer 2 lapis atensi: akurasi uji 1.000
+'pengirimannya tidak lambat': p(positif) = 1.00
+   atensi: pengirimannya:0.06 tidak:0.88 lambat:0.01
+'kurirnya ramah tapi harganya mahal': p(positif) = 0.00
+   atensi: kurirnya:0.00 ramah:0.00 tapi:0.00 harganya:0.00 mahal:1.00

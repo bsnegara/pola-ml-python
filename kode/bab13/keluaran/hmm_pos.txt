@@ -1,0 +1,9 @@
+kata taksa: ['baru', 'bisa', 'jalan', 'masak', 'tahu']
+akurasi tag terbanyak : semua 0.956, kata taksa 0.781
+akurasi HMM + Viterbi : semua 0.995, kata taksa 0.974
+  beliau baru masak tahu   -> PRON ADV VERB NOUN
+  tahu itu baru masak      -> NOUN DET ADV VERB
+  saya tahu jalan itu      -> PRON VERB NOUN DET
+p(tag | kalimat) untuk 'masak': VERB 0.79, ADJ 0.19
+ln p('saya makan nasi enak') = -8.60
+ln p('nasi enak saya makan') = -14.61

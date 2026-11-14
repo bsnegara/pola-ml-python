@@ -1,0 +1,5 @@
+bobot EM : 0.25 0.12 0.11 0.10 0.09 0.09 0.07 0.07 0.07 0.05
+bobot VB : 0.26 0.25 0.25 0.25 0.00 0.00 0.00 0.00 0.00 0.00
+komponen aktif (bobot > 1%): EM 10 | VB 4
+ELBO akhir VB (seluruh data): -706.4
+log-lik. uji per titik: EM -3.690, VB -3.648

@@ -1,0 +1,8 @@
+ skala (jam)  ln p(t)   kecocokan  kompleksitas
+        0.5    -128.3       -7.6         -90.4
+        2.0    -115.1       -7.5         -77.3
+        4.0    -110.1      -11.7         -68.0
+        8.0    -110.3      -18.9         -61.1
+       30.0    -185.2     -101.6         -53.3
+optimum: amplitudo 13.1, skala 5.6 jam, sd derau 3.8 (sebenarnya 4.0)
+ln p(t) di optimum = -108.3

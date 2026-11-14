@@ -1,0 +1,4 @@
+akurasi uji: 0.973 | log-loss uji: 0.356
+prediksi sangat yakin (p<0.001 atau p>0.999): 96%
+paling 'penipuan': pinjaman, dana, cair, bit, hdh, ly, foto, apk
+paling 'normal'  : depan, kamu, pintu, pesanan, ditaruh, sampai, lagi, semoga

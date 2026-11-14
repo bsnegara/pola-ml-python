@@ -1,0 +1,8 @@
+A: p > 0,5 (galat minimum)   salah= 1.35%  DBD terlewat= 1775  biaya=0.182
+B: p > 1/21 (biaya minimum)  salah= 4.09%  DBD terlewat=  344  biaya=0.074
+C: B + tolak bila ragu       salah= 0.35%  DBD terlewat=  344  biaya=0.038
+   ditolak (perlu tes NS1): 6.0% pasien
+   trombosit  80 -> p(DBD | x) = 0.993
+   trombosit 120 -> p(DBD | x) = 0.807
+   trombosit 150 -> p(DBD | x) = 0.232
+   trombosit 180 -> p(DBD | x) = 0.021

@@ -1,0 +1,6 @@
+PCA, 2 komponen       : akurasi 0.50
+kernel PCA, 1 komponen: akurasi 0.51
+kernel PCA, 2 komponen: akurasi 0.51
+kernel PCA, 3 komponen: akurasi 1.00
+PCA  : trustworthiness 10-tetangga 0.957, waktu  0.00 s
+t-SNE: trustworthiness 10-tetangga 0.999, waktu  2.17 s

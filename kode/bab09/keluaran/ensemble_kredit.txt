@@ -1,0 +1,5 @@
+AUC uji satu pohon dalam: 0.760
+  B | bagging (uji) | random forest (uji) | random forest (OOB)
+ 25 |         0.846 |               0.856 |               0.842
+100 |         0.854 |               0.862 |               0.853
+500 |         0.852 |               0.865 |               0.855

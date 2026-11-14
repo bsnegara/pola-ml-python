@@ -1,0 +1,4 @@
+logistik           ROC-AUC 0.991 | AP (luas PR) 0.770
+gradient boosting  ROC-AUC 0.983 | AP (luas PR) 0.697
+ambang 0.5000: FP=  17 FN= 79 | biaya total Rp 158.3 juta
+ambang 0.0099: FP= 516 FN= 15 | biaya total Rp  40.3 juta

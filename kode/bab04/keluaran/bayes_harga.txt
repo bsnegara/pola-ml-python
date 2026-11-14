@@ -1,0 +1,7 @@
+alpha = 0.0038, sigma derau = 2.85 ribu Rp, gamma = 6.99 dari 7 parameter
+tahun 2025: 94.2% pengamatan jatuh di selang prediksi 95%
+minggu           prediksi   +-2 sd   sebenarnya
+Lebaran 2025         54.7      6.2         53.1
+Juli 2025            35.7      5.9         36.5
+Juli 2027            38.4      6.2         39.6
+Juli 2032            45.1      7.6         47.4

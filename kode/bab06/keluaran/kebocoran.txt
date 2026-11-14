@@ -1,0 +1,4 @@
+label acak | AUC CV bocor = 0.83 | AUC CV benar = 0.52
+KFold acak      : AP taksiran CV = 0.902
+TimeSeriesSplit : AP taksiran CV = 0.879
+masa depan      : AP data uji  = 0.770

@@ -1,0 +1,5 @@
+159 huruf, 20 jenis huruf berbeda
+entropi distribusi huruf : 3.78 bit per huruf
+batas atas log2(20)      : 4.32 bit (semua huruf sama sering)
+lima huruf tersering    : a=36, n=16, e=15, i=12, s=11
+KL(P||Q) = 0.916 bit,  KL(Q||P) = 0.975 bit

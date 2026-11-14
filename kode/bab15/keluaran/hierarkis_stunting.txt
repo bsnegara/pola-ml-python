@@ -1,0 +1,11 @@
+         mean     sd ess_bulk r_hat
+mu     -1.446  0.084     1445  1.00
+sigma   0.294  0.076     1734  1.00
+divergensi: 0
+galat absolut rata-rata   semua   n < 50   n >= 50
+  y/n saja                0.0439   0.0619   0.0258
+  gabungan                0.0351   0.0374   0.0328
+  hierarkis               0.0268   0.0302   0.0235
+  kab. # 7: n =  12, y/n = 0.167, hierarkis = 0.191, sebenarnya = 0.311
+  kab. # 2: n =  13, y/n = 0.231, hierarkis = 0.201, sebenarnya = 0.204
+  kab. #28: n = 371, y/n = 0.240, hierarkis = 0.231, sebenarnya = 0.217

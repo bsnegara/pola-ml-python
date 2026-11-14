@@ -1,0 +1,3 @@
+prior : rerata 0.200
+Desa A:  5/ 12 | ML 0.417 | posterior 0.281, 95% [0.142, 0.446]
+Desa B: 50/120 | ML 0.417 | posterior 0.386, 95% [0.307, 0.467]

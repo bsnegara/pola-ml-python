@@ -1,0 +1,3 @@
+SGD     : loss latih epoch 1 2.086, epoch 15 0.456, akurasi uji 0.824
+momentum: loss latih epoch 1 0.626, epoch 15 0.021, akurasi uji 0.917
+Adam    : loss latih epoch 1 1.130, epoch 15 0.208, akurasi uji 0.867

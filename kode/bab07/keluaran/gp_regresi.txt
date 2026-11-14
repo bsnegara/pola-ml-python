@@ -1,0 +1,6 @@
+pengamatan: 33 dari 72 jam
+jam 20: prediksi  37.7 +-  4.8 | sebenarnya  37.4
+jam 36: prediksi  48.6 +- 38.9 | sebenarnya  44.2
+jam 40: prediksi  39.5 +- 33.3 | sebenarnya  27.5
+jam 60: prediksi  47.4 +-  4.8 | sebenarnya  48.9
+fungsi sebenarnya di dalam pita +-2sd: 100% dari semua jam

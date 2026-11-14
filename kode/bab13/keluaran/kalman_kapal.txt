@@ -1,0 +1,4 @@
+RMSE pengamatan: saat ada sinyal 0.538 km
+RMSE filter    : saat ada sinyal 0.232 km, saat hilang 1.855 km
+RMSE penghalus : saat ada sinyal 0.121 km, saat hilang 0.800 km
+simp. baku posisi-x (filter): menit 69 0.18, menit 89 0.88, menit 90 0.37

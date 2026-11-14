@@ -1,0 +1,5 @@
+M =   1 | galat tertimbang 0.129 | AUC latih 0.645 | uji 0.643
+M =   5 | galat tertimbang 0.380 | AUC latih 0.784 | uji 0.779
+M =  20 | galat tertimbang 0.471 | AUC latih 0.863 | uji 0.853
+M =  50 | galat tertimbang 0.483 | AUC latih 0.871 | uji 0.857
+M = 200 | galat tertimbang 0.495 | AUC latih 0.876 | uji 0.860

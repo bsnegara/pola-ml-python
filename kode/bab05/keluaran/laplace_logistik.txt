@@ -1,0 +1,5 @@
+pesan  kata dikenal   p_MAP   p_Bayes   (Monte Carlo)   sd aktivasi
+    1             7   0.829     0.765        0.760          1.42
+    2             6   0.044     0.092        0.088          1.44
+    3             1   0.246     0.284        0.287          1.09
+    4             8   0.595     0.563        0.563          1.82

@@ -1,0 +1,2 @@
+McNemar: A benar B salah = 41, A salah B benar = 18, p = 0.004
+AP logistik - AP boosting = 0.073, selang bootstrap 95% [0.031, 0.116]

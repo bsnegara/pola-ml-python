@@ -1,0 +1,7 @@
+model            bukan nol dari acak  RMSE uji
+kuadrat terkecil        34        20      8.97
+ridge a=10              34        20      5.70
+lasso a=0.05            21        12      6.53
+lasso a=0.4              6         3      3.91
+lasso a=1.5              1         0      5.26
+lasso a=0.4 memilih: cos1, sin2, Lebaran, acak1, acak7, acak15

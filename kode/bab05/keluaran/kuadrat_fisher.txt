@@ -1,0 +1,4 @@
+kosakata: 247 kata
+kuadrat terkecil: keluaran uji di [-0.21, 1.10], 38% di luar [0, 1]
+selisih rerata : J =   4.09 | akurasi uji = 0.955
+Fisher         : J =  14.02 | akurasi uji = 0.978

@@ -1,0 +1,3 @@
+p(positif)         = 0.0925
+p(DBD | positif)   = 0.486
+simulasi: 92386 positif, 44941 di antaranya DBD -> 0.486

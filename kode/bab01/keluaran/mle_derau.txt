@@ -1,0 +1,3 @@
+N=  12   sigma_ML = 28.5 mm   terkoreksi = 40.2 mm   (sebenarnya 40)
+N=  50   sigma_ML = 37.5 mm   terkoreksi = 39.9 mm   (sebenarnya 40)
+N= 500   sigma_ML = 39.8 mm   terkoreksi = 40.1 mm   (sebenarnya 40)

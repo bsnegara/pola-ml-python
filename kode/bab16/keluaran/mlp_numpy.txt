@@ -1,0 +1,7 @@
+gradien backprop -4.737901e-04, beda hingga -4.737901e-04
+epoch  3: loss latih 0.309, akurasi uji 0.854
+epoch  6: loss latih 0.133, akurasi uji 0.898
+epoch  9: loss latih 0.062, akurasi uji 0.918
+epoch 12: loss latih 0.034, akurasi uji 0.914
+epoch 15: loss latih 0.021, akurasi uji 0.917
+regresi logistik (tanpa lapisan tersembunyi): akurasi uji 0.842

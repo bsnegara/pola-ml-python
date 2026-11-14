@@ -1,0 +1,3 @@
+marginal berat      : 11.50 +- 1.30 kg
+berat | tinggi=80cm : 10.20 +- 0.93 kg (rumus)
+berat | tinggi~80cm : 10.20 +- 0.93 kg (simulasi, 16227 sampel)

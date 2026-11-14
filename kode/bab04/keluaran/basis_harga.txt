@@ -1,0 +1,5 @@
+model                      #param  RMSE latih  RMSE uji
+polinom orde 9                 10        4.00   7962.15
+Fourier saja                    5        3.48      4.40
+Fourier + tren                  6        3.31      3.50
+Fourier + tren + Lebaran        7        2.78      2.86

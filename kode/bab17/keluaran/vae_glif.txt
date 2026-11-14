@@ -1,0 +1,4 @@
+epoch 10: ELBO uji  -152.4 = rekonstruksi  -149.8 - KL  2.6
+epoch 20: ELBO uji  -151.5 = rekonstruksi  -148.5 - KL  3.0
+epoch 30: ELBO uji  -151.2 = rekonstruksi  -148.2 - KL  3.0
+akurasi 10-NN di ruang 2D: VAE 0.528, PCA 0.378

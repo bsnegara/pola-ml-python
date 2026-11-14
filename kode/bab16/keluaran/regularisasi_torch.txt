@@ -1,0 +1,5 @@
+                   epoch 300       | early stopping
+                   NLL   akurasi   | epoch  NLL   akurasi
+tanpa regularisasi 1.46  0.722     |   32   0.90  0.703
+weight decay 1,0   1.19  0.719     |   33   0.90  0.703
+dropout 0,5        1.35  0.728     |   54   0.87  0.719

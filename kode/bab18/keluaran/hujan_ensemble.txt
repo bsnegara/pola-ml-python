@@ -1,0 +1,7 @@
+taksiran derau aleatorik (out-of-bag): 53 mm (sebenarnya 40 mm)
+bulan    sebenarnya | tunggal | MC dropout | ensemble 20 jaringan
+                    | rerata  | rerata sd  | rerata s_epi s_tot
+Januari        345  |    335  |    333  20 |    312    37    65
+April          161  |    158  |    164   9 |    157    31    62
+Juli            55  |    121  |    142  11 |     94    71    89
+Oktober        239  |    270  |    269  10 |    265     8    54

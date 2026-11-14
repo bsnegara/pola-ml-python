@@ -1,0 +1,5 @@
+|korelasi| dengan sumber asli (sumber 1, sumber 2):
+  sensor mentah: [0.943 0.751]
+  PCA          : [0.871 0.883]
+  ICA          : [1. 1.]
+kurtosis lebih: sumber [-2.  -1.2] | campuran [-1.59 -0.74]

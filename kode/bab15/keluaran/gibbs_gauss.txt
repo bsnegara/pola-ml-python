@@ -1,0 +1,4 @@
+Gibbs: E[mu] = 6.0459, sd[mu] = 0.2460, E[tau] = 1.8004
+eksak: E[mu] = 6.0455, sd[mu] = 0.2462, E[tau] = 1.7998   (Bab 14)
+VB   : E[mu] = 6.0455, sd[mu] = 0.2247, E[tau] = 1.7998   (Bab 14)
+sd[mu] bila tau < median: 0.284, bila tau >= median: 0.201

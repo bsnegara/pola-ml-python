@@ -1,0 +1,20 @@
+porsi varians   : 0.75 0.08 0.05 0.04 0.03
+kumulatif       : 0.75 0.83 0.88 0.91 0.94
+muatan KU1, KU2 :
+   miskin        -0.32 -0.23
+   IPM           +0.34 +0.11
+   RLS           +0.33 +0.09
+   UHH           +0.29 +0.16
+   pengangguran  +0.26 -0.46
+   gini          +0.20 -0.75
+   air_layak     +0.32 -0.18
+   internet      +0.32 +0.16
+   PDRB_log      +0.29 +0.08
+   perkotaan     +0.33 -0.05
+   stunting      -0.30 -0.25
+galat rekonstruksi rata-rata: 0.173 (= jumlah eigen sisanya / D: 0.173)
+eigen dari SVD sama: True
+   PAP-03: KU1 -6.16, KU2 +1.65
+   PAP-01: KU1 -5.15, KU2 -1.21
+   JAW-01: KU1 +4.67, KU2 +0.45
+   JAW-03: KU1 +5.57, KU2 -0.05

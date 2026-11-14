@@ -1,0 +1,3 @@
+prevalensi nyata di data uji: 0.0097
+tanpa koreksi : rerata p 0.0552 | log-loss 0.0758 | ECE 0.0455 | p>0.5: 728
+dengan koreksi: rerata p 0.0062 | log-loss 0.0192 | ECE 0.0035 | p>0.5: 92

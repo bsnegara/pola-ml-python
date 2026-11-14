@@ -1,0 +1,4 @@
+MLP: 393860 parameter, akurasi uji 0.537, uji digeser 0.330
+     per kelas: sehat 0.31, blas 0.23, bercak cokelat 0.68, hawar 1.00
+CNN:  14468 parameter, akurasi uji 0.984, uji digeser 0.885
+     per kelas: sehat 1.00, blas 0.97, bercak cokelat 0.97, hawar 1.00

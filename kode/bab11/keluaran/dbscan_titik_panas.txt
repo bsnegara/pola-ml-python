@@ -1,0 +1,9 @@
+DBSCAN : 3 klaster, 44 titik derau
+         ukuran klaster: [267 227 122]
+         titik inti 606, titik tepi 10
+ARI (tanpa titik sporadis): DBSCAN 1.00, K-means 0.54
+eps =  2.0 km: 19 klaster, 213 derau
+eps =  3.5 km:  3 klaster,  49 derau
+eps =  5.0 km:  3 klaster,  44 derau
+eps =  8.0 km:  3 klaster,  28 derau
+eps = 12.0 km:  2 klaster,  14 derau

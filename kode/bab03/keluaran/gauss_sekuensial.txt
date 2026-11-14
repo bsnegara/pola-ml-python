@@ -1,0 +1,6 @@
+N= 1 | ML =  91.14 | posterior =  88.02 +- 1.74
+N= 2 | ML =  83.10 | posterior =  85.46 +- 1.56
+N= 5 | ML =  83.22 | posterior =  84.65 +- 1.23
+N=10 | ML =  83.61 | posterior =  84.40 +- 0.97
+N=50 | ML =  84.09 | posterior =  84.26 +- 0.48
+batch N=50          posterior =  84.26 +- 0.48

@@ -1,0 +1,6 @@
+kernel hasil optimasi:
+  1.05**2 * RBF(length_scale=3.87) + WhiteKernel(noise_level=0.0704)
+rata-rata sensor : RMSE peta  9.42 ug/m3
+IDW              : RMSE peta  5.39 ug/m3
+proses Gaussian  : RMSE peta  2.84 ug/m3
+medan sebenarnya di dalam +-2sd: 96% sel

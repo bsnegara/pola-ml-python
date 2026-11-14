@@ -1,0 +1,6 @@
+titik latih: 15, tanpa data antara Juni dan Agustus
+bulan     rerata  s_model  s_total  sebenarnya   (semua dalam mm)
+Januari      334       23       46         345
+April        175       19       44         161
+Juli          99       40       57          55
+Oktober      255       29       49         239

@@ -1,0 +1,16 @@
+gagal bayar: 13.2% dari 8000 pinjaman
+kedalaman 1   :    2 daun | AUC latih 0.764 | uji 0.776
+kedalaman 2   :    4 daun | AUC latih 0.805 | uji 0.816
+kedalaman 4   :   16 daun | AUC latih 0.862 | uji 0.863
+kedalaman 8   :  127 daun | AUC latih 0.917 | uji 0.814
+kedalaman None:  616 daun | AUC latih 1.000 | uji 0.691
+|--- rasio_cicilan <= 0.40
+|   |--- telat_12bln <= 1.50
+|   |   |--- weights: [4224.00, 220.00] class: 0
+|   |--- telat_12bln >  1.50
+|   |   |--- weights: [196.00, 62.00] class: 0
+|--- rasio_cicilan >  0.40
+|   |--- umur_usaha <= 2.00
+|   |   |--- weights: [6.00, 171.00] class: 1
+|   |--- umur_usaha >  2.00
+|   |   |--- weights: [434.00, 287.00] class: 0

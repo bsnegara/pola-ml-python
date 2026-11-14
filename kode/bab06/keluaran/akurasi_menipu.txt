@@ -1,0 +1,5 @@
+transaksi uji: 19893, tidak wajar: 193 (0.97%)
+model                  TP   FP  FN | akurasi presisi recall    F1
+selalu 'wajar'          0    0 193 | 0.9903      nan  0.000 0.000
+logistik, ambang 0.5  114   17  79 | 0.9952    0.870  0.591 0.704
+logistik, ambang 0.1  148  102  45 | 0.9926    0.592  0.767 0.668

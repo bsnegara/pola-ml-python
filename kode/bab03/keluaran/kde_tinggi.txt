@@ -1,0 +1,7 @@
+h = 0.3 cm      | log-likelihood validasi rata-rata = -3.012
+h = 0.8 cm      | log-likelihood validasi rata-rata = -2.897
+h = 1.5 cm      | log-likelihood validasi rata-rata = -2.887
+h = 3.0 cm      | log-likelihood validasi rata-rata = -2.914
+h = 6.0 cm      | log-likelihood validasi rata-rata = -3.089
+aturan Silverman  | h = 1.53 cm
+satu Gaussian     | log-likelihood validasi rata-rata = -2.909

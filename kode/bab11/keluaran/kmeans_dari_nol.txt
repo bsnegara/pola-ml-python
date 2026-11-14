@@ -1,0 +1,3 @@
+J per iterasi: 814 327 235 155 119 113 112 112 112 112 112 112
+J akhir dari 20 inisialisasi: min 111.5, maks 111.5
+ukuran klaster: [167  81  50 216]

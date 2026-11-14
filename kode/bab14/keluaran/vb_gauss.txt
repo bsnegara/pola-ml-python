@@ -1,0 +1,6 @@
+iterasi 0: E[mu] = 6.0455, sd[mu] = 0.3015, E[tau] = 1.6955
+iterasi 1: E[mu] = 6.0455, sd[mu] = 0.2316, E[tau] = 1.7914
+iterasi 2: E[mu] = 6.0455, sd[mu] = 0.2253, E[tau] = 1.7992
+iterasi 3: E[mu] = 6.0455, sd[mu] = 0.2248, E[tau] = 1.7998
+iterasi 4: E[mu] = 6.0455, sd[mu] = 0.2247, E[tau] = 1.7998
+eksak     : E[mu] = 6.0455, sd[mu] = 0.2462, E[tau] = 1.7998

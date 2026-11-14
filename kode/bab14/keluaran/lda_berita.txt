@@ -1,0 +1,12 @@
+topik 0 (sawit  ): tbs bibit kebun lahan sawit produksi
+topik 1 (wisata ): desa kuliner pesona promosi pengunjung festival
+topik 2 (dbd    ): demam jentik dinkes rsud trombosit puskesmas
+topik 3 (pilkada): calon suara debat pemilih paslon kpu
+topik 4 (bola   ): suporter laga skor kompetisi babak pemain
+topik 5 (banjir ): longsor debit tanggul pengungsi rendam genangan
+dokumen #1001    sawit  banjir pilkada  wisata    bola     dbd
+  taksiran       0.13    0.10    0.13    0.41    0.22    0.00
+  sebenarnya     0.10    0.14    0.11    0.37    0.27    0.00
+K =  3: perplexity uji 64.5
+K =  6: perplexity uji 52.0
+K = 12: perplexity uji 58.3

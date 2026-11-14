@@ -1,0 +1,10 @@
+kepentingan permutasi (turunnya AUC uji):
+  rasio_cicilan 0.228, telat_12bln 0.059, umur_usaha 0.021, sektor 0.016
+pemohon: rasio 0.51, umur 1.8 th, telat 0x, omzet 9.7 jt, tani, desa
+p(gagal) = 0.98; dasar (rata-rata latar) -2.50 log-odds
+  rasio_cicilan  +3.62
+  umur_usaha     +1.90
+  sektor         +0.56
+  omzet_juta     +0.35
+  di_kota        +0.23
+dasar + jumlah SHAP = +3.99 = f(x) = +3.99

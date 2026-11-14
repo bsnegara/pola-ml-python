@@ -1,0 +1,3 @@
+IRLS konvergen dalam 8 iterasi
+akurasi uji: 0.983 | log-loss uji: 0.100
+prediksi sangat yakin (p<0.001 atau p>0.999): 0%

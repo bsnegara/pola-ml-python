@@ -1,0 +1,7 @@
+-log-lik. per titik MDN: -1.069
+x = 0.2: kuadrat terkecil t = 0.05
+   MDN: 1.00 N(0.07, 0.02)
+x = 0.5: kuadrat terkecil t = 0.51
+   MDN: 0.50 N(0.50, 0.09) + 0.27 N(0.78, 0.04) + 0.23 N(0.23, 0.04)
+x = 0.8: kuadrat terkecil t = 0.95
+   MDN: 1.00 N(0.94, 0.02)
