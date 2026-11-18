@@ -1,7 +1,7 @@
 # Pengenalan Pola dan Machine Learning: Pendekatan Probabilistik dengan Python
 
 Kode dan notebook pendamping buku *Pengenalan Pola dan Machine Learning:
-Pendekatan Probabilistik dengan Python* karya Lestari Handayani
+Pendekatan Probabilistik dengan Python* karya Lestari Handayani dan Fitri Insani
 (Nalar Press Indonesia, 2027).
 
 Repositori ini berisi semua listing di buku: 75 listing Python di 18 bab, satu
@@ -277,7 +277,7 @@ dilindungi hak cipta.
 ## Mengutip
 
 ```
-Handayani, L. (2027). Pengenalan Pola dan Machine Learning: Pendekatan
+Handayani, L., & Insani, F. (2027). Pengenalan Pola dan Machine Learning: Pendekatan
 Probabilistik dengan Python. Pekanbaru: Nalar Press Indonesia.
 ```
 
