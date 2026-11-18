@@ -2,7 +2,7 @@
 
 Kode dan notebook pendamping buku *Pengenalan Pola dan Machine Learning:
 Pendekatan Probabilistik dengan Python* karya Lestari Handayani
-(Yayasan KATD, 2026).
+(Nalar Press Indonesia, 2027).
 
 Repositori ini berisi semua listing di buku: 75 listing Python di 18 bab, satu
 notebook Jupyter per bab yang dapat langsung dijalankan di Google Colab atau
@@ -277,8 +277,8 @@ dilindungi hak cipta.
 ## Mengutip
 
 ```
-Handayani, L. (2026). Pengenalan Pola dan Machine Learning: Pendekatan
-Probabilistik dengan Python. Pekanbaru: Yayasan KATD.
+Handayani, L. (2027). Pengenalan Pola dan Machine Learning: Pendekatan
+Probabilistik dengan Python. Pekanbaru: Nalar Press Indonesia.
 ```
 
 Laporan kesalahan pada kode atau buku dapat dikirim lewat *Issues* di
